@@ -1,6 +1,6 @@
 name: VCorreios
 main: dev.ortega.correio.Vulcanth
 version: 0.1
-author: Ortega
+author: SrKelb
 commands:
    correio:
