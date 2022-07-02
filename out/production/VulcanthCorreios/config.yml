@@ -1,0 +1,7 @@
+MySQL:
+  Type: MYSQL # MYSQL SQLITE
+  User: root
+  Password: 
+  Host: localhost
+  Port: 3306
+  Database: server
